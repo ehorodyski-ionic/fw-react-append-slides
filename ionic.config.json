@@ -1,0 +1,7 @@
+{
+  "name": "fw-react-append-slides",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
